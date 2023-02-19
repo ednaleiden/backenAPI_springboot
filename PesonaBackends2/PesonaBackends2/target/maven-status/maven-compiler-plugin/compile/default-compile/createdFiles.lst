@@ -1,0 +1,14 @@
+com\example\PesonaBackends2\rest\PaisREST.class
+com\example\PesonaBackends2\repository\PaisRepository.class
+com\example\PesonaBackends2\WelcomeController.class
+com\example\PesonaBackends2\PesonaBackends2Application.class
+com\example\PesonaBackends2\rest\PersonaREST.class
+com\example\PesonaBackends2\repository\PersonaRepository.class
+com\example\PesonaBackends2\model\Persona.class
+com\example\PesonaBackends2\model\Pais.class
+com\example\PesonaBackends2\service\PaisService.class
+com\example\PesonaBackends2\rest\EstadoREST.class
+com\example\PesonaBackends2\model\Estado.class
+com\example\PesonaBackends2\service\PersonaService.class
+com\example\PesonaBackends2\repository\EstadoRepository.class
+com\example\PesonaBackends2\service\EstadoService.class
